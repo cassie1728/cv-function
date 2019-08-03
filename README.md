@@ -15,3 +15,4 @@ cv方面会用到的各种功能性函数整理。
 
 #### crop_savelabel.py : 将整图中所有titles截取出来，并以titles图片名保存label文件。
 
+#### print_bbox.py : 根据检测框信息，将bbox在整图中标出，方便查看。使用时注意bbox的格式。
