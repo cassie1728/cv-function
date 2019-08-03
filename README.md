@@ -12,3 +12,6 @@ cv方面会用到的各种功能性函数整理。
 #### sort.py : 将字符集重新排序sort一下。
 
 #### re_correct.py : 识别出来的结果做后处理，替换相关字符。
+
+#### crop_savelabel.py : 将整图中所有titles截取出来，并以titles图片名保存label文件。
+
